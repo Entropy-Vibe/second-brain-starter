@@ -165,4 +165,4 @@ MIT
 
 ---
 
-*Built by [Gabe](https://gabrielis.me). Read the full story: [How to Build a Second Brain for Your AI](https://gabrielis.me/blog/second-brain).*
+*Built by [Gabe](https://gabrielis.me). Read the full story: [How to Build a Second Brain for Your AI](https://gabrielis.me/blog/second-brain-guide/).*
